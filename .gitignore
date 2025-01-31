@@ -1,0 +1,17 @@
+.venv
+.history
+.qodo
+mlruns
+mlartifacts
+jupyterhub_cookie_secret
+jupyterhub.sqlite
+60-20-20/mlartifacts
+60-20-20/charts
+70-15-15/mlartifacts
+70-15-15/charts
+80-10-10/mlartifacts
+80-10-10/charts
+.DS_Store
+.vscode
+60-20-20/Final Notebook (Including Cross-Validation) (60-20-20)-1.ipynb
+data
